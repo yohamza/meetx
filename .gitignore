@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
+token.json
+credentials.json
+
+
+# IDE / OS files
+.vscode/
+.idea/
+*.DS_Store
